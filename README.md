@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm ABu Abi</h1>
 <h3 align="center">WannaSEEMore?</h3>
 
+- 🔭 I’m currently working on [SocialPub](https://github.com/abu166/SocialPub.git)
+
+- 🌱 I’m currently learning **Java Development with AI (EPAM Course) and Golang in Alem School**
+
+- 👨‍💻 All of my projects are available at [https://github.com/abu166](https://github.com/abu166)
+
+- 📫 How to reach me **230893@astanait.edu.kz**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
